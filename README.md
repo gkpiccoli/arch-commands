@@ -8,3 +8,7 @@ sudo pacman -Ss 'packageName' (procura o diretorio do pacote desejado no reposit
 sudo pacman -Qdt (packages u dont need anymore)
 sudo pacman -R 'packageName'(remove package)
 sudo pacman -Qs procura o pacote na query do pc
+
+
+yay -Sua (lista os pacotes AUR p serem atualizados)
+yay -Yc (lista pacotes obsoletos e apaga-os)
