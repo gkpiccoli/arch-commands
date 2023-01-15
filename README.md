@@ -12,3 +12,8 @@ sudo pacman -Qs procura o pacote na query do pc
 
 yay -Sua (lista os pacotes AUR p serem atualizados)
 yay -Yc (lista pacotes obsoletos e apaga-os)
+
+
+makepkg -si  no diretorio - instala o pacote
+
+less PKGBUILD
