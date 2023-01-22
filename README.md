@@ -5,7 +5,7 @@
 
     sudo pacman -Syu (fully system updgrade)
     sudo pacman -Ss 'packageName' (procura o diretorio do pacote desejado no repositorio do Arch)
-    sudo pacman -Qdt (packages u dont need anymore)
+    sudo pacman -Qdt (packages u dont need more)
     sudo pacman -R 'packageName'(remove package)
     sudo pacman -Qs procura o pacote na query do pc
 
