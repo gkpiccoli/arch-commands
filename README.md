@@ -13,6 +13,7 @@
  -   yay       (Faz todo o trabalho kkkk) 
  -   yay -Sua (lista os pacotes AUR p serem atualizados)
  -   yay -Yc (lista pacotes obsoletos e apaga-os)
+ -   yay -P --stats (estatísticas sobre os pacotes do sistema - mais relevantes)
  
 
  -   yay -Rns [package_name] Remove an installed package and both its dependencies and configuration files
