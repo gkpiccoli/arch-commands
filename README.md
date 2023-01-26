@@ -4,6 +4,7 @@
 - Comandos úteis do gerenciador de arquivos do Linux Arch - pacman
 
  -   sudo pacman -Syu (fully system updgrade)
+ -   sudo pacman -Sua (upgrade AUR packages)
  -   sudo pacman -Ss [packageName] (procura o diretorio do pacote desejado no repositorio do Arch)
  -   sudo pacman -Qdt (packages u dont need more)
  -   sudo pacman -R 'packageName'(remove package)
