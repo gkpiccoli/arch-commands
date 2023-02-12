@@ -1,6 +1,8 @@
 # arch-commands
 
 
+![alt image](https://github.com/gkpiccoli/arch-commands/blob/main/Screenshot_2023-02-12_16-31-13.png?raw=true)
+
 - Comandos úteis do gerenciador de arquivos do Linux Arch - pacman
 
  -   sudo pacman -Syu (fully system updgrade)
