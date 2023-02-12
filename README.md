@@ -14,6 +14,7 @@
  -   yay -Sua (lista os pacotes AUR p serem atualizados)
  -   yay -Yc (lista pacotes obsoletos e apaga-os)
  -   yay -P --stats (estatísticas sobre os pacotes do sistema - mais relevantes)
+ -   yay -U package.tar.zst (instala o pacote)
  -   man yay (manual do yay)
  
 
