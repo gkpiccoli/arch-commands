@@ -17,6 +17,7 @@
  -   yay -Yc (lista pacotes obsoletos e apaga-os)
  -   yay -P --stats (estatísticas sobre os pacotes do sistema - mais relevantes)
  -   yay -U package.tar.zst (instala o pacote)
+ -   yay -S pamac-all (gerenciador de pacotes GUI)
  -   man yay (manual do yay)
  
 
